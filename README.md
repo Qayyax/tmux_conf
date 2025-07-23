@@ -12,6 +12,7 @@ cursor-color = "#c19ee0"
 cursor-text = "#2c0735"
 selection-background = "#3b275f"
 selection-foreground = "#f0e7ff"
+minimum-contrast = 3
 
 font-size = 14
 font-family = ""
